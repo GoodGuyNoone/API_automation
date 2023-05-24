@@ -1,8 +1,7 @@
 import requests
 
-"""Список HTTP методов"""
 
-
+"""List of http methods"""
 class HttpMethods():
     headers = {'Content-Type': 'application/json'}
     cookies = ""
