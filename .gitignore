@@ -2,6 +2,7 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+logs/*.log
 .log
 
 
@@ -11,3 +12,5 @@ __pycache__/
 .venv
 env/
 venv_autoendorse/
+co_actors.txt
+utils/darth_vader.py
